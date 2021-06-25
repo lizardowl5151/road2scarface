@@ -1,2 +1,4 @@
 # road2scarface
-Experience the road to becoming scarface.
+Drug dealer simulator in Python. 
+
+
